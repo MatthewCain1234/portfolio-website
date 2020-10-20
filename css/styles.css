@@ -6,6 +6,7 @@ Primary Color (Purple): #357b70;
 Secondary Color (Orange): #e0b354;
  */
 
+
  :root {
    --primary-color: #69968e;
    --secondary-color: #e0b354;
@@ -37,8 +38,8 @@ h2 {
 }
 
 h3 {
-  font-size: 18px
-  font-weight 600
+  font-size: 18px;
+  font-weight: 600;
 }
 
 a {
